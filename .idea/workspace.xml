@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pontos_turisticos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atracoes/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacoes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacoes/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacoes/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacoes/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacoes/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacoes/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacoes/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/api/viewsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comentarios/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/viewsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/migrations/0002_alter_pontoturistico_aprovado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/migrations/0003_pontoturistico_atracoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pontos_turisticos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pontos_turisticos/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pontos_turisticos/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pontos_turisticos/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Helder Franco &lt;helderfranco2011@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NKkR3oYnbdyiBul9WMiPV8rN4x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Helder/pontos_turisticos/comentarios&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Helder\pontos_turisticos\comentarios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runserver">
+    <configuration name="makemigrations" type="PythonConfigurationType" factoryName="Python">
+      <module name="pontos_turisticos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Helder\pontos_turisticos\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (pontos_turisticos)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="makemigrations" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="migrate" type="PythonConfigurationType" factoryName="Python">
+      <module name="pontos_turisticos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Helder\pontos_turisticos\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (pontos_turisticos)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="migrate" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runserver" type="PythonConfigurationType" factoryName="Python">
+      <module name="pontos_turisticos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Helder\pontos_turisticos\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (pontos_turisticos)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.makemigrations" />
+      <item itemvalue="Python.migrate" />
+      <item itemvalue="Python.runserver" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="" />
+      <created>1679420152233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679420152233</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fix: v1">
+      <created>1679524717207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679524717207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: v1" />
+  </component>
+</project>
