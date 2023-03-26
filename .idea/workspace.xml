@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="" />
+    <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaliacoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679867505027</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&quot;:bricks: ci: alteração no endpoint de comentários">
+      <created>1679868061987</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679868061987</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +210,7 @@
     <MESSAGE value=":sparkles: feat: criando endpoint de atrações" />
     <MESSAGE value=":sparkles: feat: criando endpoint de endereços" />
     <MESSAGE value=":sparkles: feat: criando endpoint de comentários" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: criando endpoint de comentários" />
+    <MESSAGE value="&quot;:bricks: ci: alteração no endpoint de comentários" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;:bricks: ci: alteração no endpoint de comentários" />
   </component>
 </project>
