@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atracoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atracoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atracoes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679540441548</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=":sparkles: feat: configuracoes iniciais da api">
+      <created>1679711677661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679711677661</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +181,7 @@
     <MESSAGE value=":tada: Commit inicial" />
     <MESSAGE value=":sparkles: feat: campo avaliacao" />
     <MESSAGE value=":sparkles: feat: campo enderecos" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: campo enderecos" />
+    <MESSAGE value=":sparkles: feat: configuracoes iniciais da api" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: configuracoes iniciais da api" />
   </component>
 </project>
