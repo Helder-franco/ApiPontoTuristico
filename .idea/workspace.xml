@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="">
+    <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment=":sparkles: feat: criando endpoint de atrações">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enderecos/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/enderecos/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enderecos/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/enderecos/api/viewsets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +53,7 @@
       <recent name="C:\Users\Helder\pontos_turisticos\comentarios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.runserver">
+  <component name="RunManager" selected="Python.makemigrations">
     <configuration name="makemigrations" type="PythonConfigurationType" factoryName="Python">
       <module name="pontos_turisticos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679711677661</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=":sparkles: feat: criando endpoint de atrações">
+      <created>1679794124728</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679794124728</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +186,7 @@
     <MESSAGE value=":sparkles: feat: campo avaliacao" />
     <MESSAGE value=":sparkles: feat: campo enderecos" />
     <MESSAGE value=":sparkles: feat: configuracoes iniciais da api" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: configuracoes iniciais da api" />
+    <MESSAGE value=":sparkles: feat: criando endpoint de atrações" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: criando endpoint de atrações" />
   </component>
 </project>
