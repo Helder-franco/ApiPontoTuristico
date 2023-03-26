@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment=":sparkles: feat: criando endpoint de atrações">
+    <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enderecos/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/enderecos/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enderecos/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/enderecos/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atracoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comentarios/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/comentarios/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comentarios/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/comentarios/api/viewsets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679794124728</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=":sparkles: feat: criando endpoint de endereços">
+      <created>1679866978702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679866978703</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +195,7 @@
     <MESSAGE value=":sparkles: feat: campo enderecos" />
     <MESSAGE value=":sparkles: feat: configuracoes iniciais da api" />
     <MESSAGE value=":sparkles: feat: criando endpoint de atrações" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: criando endpoint de atrações" />
+    <MESSAGE value=":sparkles: feat: criando endpoint de endereços" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: criando endpoint de endereços" />
   </component>
 </project>
