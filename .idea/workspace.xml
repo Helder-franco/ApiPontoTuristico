@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/core/migrations/0007_alter_pontoturistico_endereco.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avaliacoes/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/avaliacoes/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pontos_turisticos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       <recent name="C:\Users\Helder\pontos_turisticos\comentarios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.makemigrations">
+  <component name="RunManager" selected="Python.runserver">
     <configuration name="makemigrations" type="PythonConfigurationType" factoryName="Python">
       <module name="pontos_turisticos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679868061987</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=":sparkles: feat: criando endpoint de avaliações">
+      <created>1679868821678</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679868821678</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,6 +219,7 @@
     <MESSAGE value=":sparkles: feat: criando endpoint de endereços" />
     <MESSAGE value=":sparkles: feat: criando endpoint de comentários" />
     <MESSAGE value="&quot;:bricks: ci: alteração no endpoint de comentários" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;:bricks: ci: alteração no endpoint de comentários" />
+    <MESSAGE value=":sparkles: feat: criando endpoint de avaliações" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: criando endpoint de avaliações" />
   </component>
 </project>
