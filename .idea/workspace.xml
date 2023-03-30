@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0005461c-9658-4c1b-a3c3-edfecdcdfc9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atracoes/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/atracoes/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontos_turisticos/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontos_turisticos/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/api/viewsets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680186597680</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=":sparkles: feat: implementando filtragem por djangofilter">
+      <created>1680188420597</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680188420597</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +248,7 @@
     <MESSAGE value=":sparkles: feat: implementando get_queryset em pontos turísticos" />
     <MESSAGE value=":sparkles: feat: implementando imagens na api" />
     <MESSAGE value=":sparkles: feat: implementando filtragem por query string" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: implementando filtragem por query string" />
+    <MESSAGE value=":sparkles: feat: implementando filtragem por djangofilter" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: feat: implementando filtragem por djangofilter" />
   </component>
 </project>
